@@ -1,3 +1,10 @@
+Steps to get started:
+
+1. npm install / yarn add
+2. npm run start => local development
+3. npm run dev => development build
+4. npm run build => production build
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/SHTIKOV/newt/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
